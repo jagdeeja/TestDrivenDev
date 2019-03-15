@@ -1,5 +1,6 @@
 package com.maven.kamal;
 //This is jagdeep
+//This is Anamika
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
