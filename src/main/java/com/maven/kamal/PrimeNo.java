@@ -1,6 +1,6 @@
 package com.maven.kamal;
 //This is jagdeep
-//This is Anamika
+//This is Anamika and it is first Commitss
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
