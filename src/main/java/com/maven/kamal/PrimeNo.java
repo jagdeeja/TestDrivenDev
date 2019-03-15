@@ -1,5 +1,5 @@
 package com.maven.kamal;
-
+//This is jagdeep
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
