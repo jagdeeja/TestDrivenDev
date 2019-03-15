@@ -1,6 +1,13 @@
 package com.maven.kamal;
 //This is jagdeep
+
 // We can Change anything
+
+
+//This is Anamika and it is first Commit
+//This is Anamika and it is 2nd Commit.
+
+//this is gloryGglory-first-commit Gglory-first-commit
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
